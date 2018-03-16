@@ -1,12 +1,12 @@
 # Basic
-title: 房东惠
+title: 顾杰
 subtitle: 个人博客
 description: 程序员绝对是世界上仅次于猫的迷人生物
 # 头像里面的标题
 avatarTitle: myPirlo
 # 头像里面的描述
-avatarDesc: WEB前端 / 天蝎座
-url: "https://mypirlo.github.io/"
+avatarDesc: WEB前端 / 巨蟹座
+url: "https://jojoname.github.io/"
 
 # Comment
 comment:
@@ -14,8 +14,8 @@ comment:
 
 # Social
 social: 
-    github: myPirlo
-    mail: 871235509@qq.com
+    github: jojoname
+    mail: 837555027@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
